@@ -8,8 +8,8 @@
     "url": "git@github.com:emech-en/mongo-morgan.git"
   },
   "dependencies": {
-    "morgan": "1.5.0",
-    "carrier": "0.1.14",
+    "morgan": "1.10.0",
+    "carrier": "0.3.0",
     "mongodb": "^2.2.25"
   },
   "keywords": [
